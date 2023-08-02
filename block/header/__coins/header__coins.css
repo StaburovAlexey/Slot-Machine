@@ -1,0 +1,18 @@
+.header__coins {
+  width: 26.5%;
+  min-width: 212px;
+  height: 64.285%;
+  border-radius: 18.5px;
+  border-bottom: 1px solid #FFB800;
+  border-left: 1px solid #FFB800;
+  border-right: 1px solid #FFB800;
+  background: #370063;
+  box-shadow: 0px 4px 3px 0px rgba(32, 0, 65, 0.91) inset;
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+
+
+}

@@ -1,0 +1,15 @@
+.header__points-points {
+  background: linear-gradient(180deg, #06F 0%, #BD00FF 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: Impact, sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 1px;
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,25 @@
+@import url(./normalize.css);
+@import url(../block/main/main.css);
+@import url(../block/bet/bet.css);
+@import url(../block/bet/__btn-minus/bet__btn-minus.css);
+@import url(../block/bet/__btn-plus/bet__btn-plus.css);
+@import url(../block/bet/__sum-bet/bet__sum-bet.css);
+@import url(../block/header/header.css);
+@import url(../block/header/__btn-prev/header__btn-prev.css);
+@import url(../block/header/__coins-coin/header__coins-coin.css);
+@import url(../block/header/__coins-sum/header__coins-sum.css);
+@import url(../block/header/__coins/header__coins.css);
+@import url(../block/header/__points-points/header__points-points.css);
+@import url(../block/header/__points-star/header__points-star.css);
+@import url(../block/header/__points/header__points.css);
+@import url(../block/slot-machine/slot-machine.css);
+@import url(../block/slot-machine/__slider-slide/slot-machine__slider-slide.css);
+@import url(../block/slot-machine/__slider-wrapper/slot-machine__slider-wrapper.css);
+@import url(../block/slot-machine/__slider/slot-machine__slider.css);
+@import url(../block/footer/footer.css);
+@import url(../block/footer/__btn-auto/footer__btn-auto.css);
+@import url(../block/footer/__btn-spin/footer__btn-spin.css);
+@import url(../block/footer/__win-sum/footer__win-sum.css);
+@import url(../block/footer/__win-text/footer__win-text.css);
+@import url(../block/footer/__win/footer__win.css);
+

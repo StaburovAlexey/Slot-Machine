@@ -1,0 +1,11 @@
+.header__coins-coin {
+  background-image: url(../../../image/coin.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 39px;
+  height: 27px;
+  position: absolute;
+  left: 10px;
+  bottom: 3px;
+}

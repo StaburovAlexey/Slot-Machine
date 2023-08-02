@@ -1,0 +1,12 @@
+.header__points-star {
+  width: 47px;
+  height: 49px;
+  background-image: url(../../../image/Frame.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  z-index: 3;
+  left: -6px;
+  top: -9px;
+}
