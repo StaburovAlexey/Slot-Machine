@@ -1,0 +1,13 @@
+.footer__win-text {
+  font-family: Impact;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 1px;
+  background: var(--2, linear-gradient(180deg, #FFF 0%, #1DC9FF 100%));
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin: 0;
+}

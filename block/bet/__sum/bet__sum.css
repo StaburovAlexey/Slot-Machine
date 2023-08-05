@@ -1,0 +1,9 @@
+.bet__sum {
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 86px;
+  height: 36px;
+  background-color: #320950;
+}

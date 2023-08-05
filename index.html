@@ -6,9 +6,10 @@
   <meta name="viewport" content="width = device-width, initial-scale=1.0">
   <title>Slot-Machine</title>
   <link rel="stylesheet" href="./page/index.css">
+
 </head>
 
-<body>
+<body class="body">
   <header class="header">
     <button class="header__btn-prev">
     </button>
@@ -23,7 +24,12 @@
   </header>
   <main class="main">
     <section class="slot-machine">
-      <div class="slot-machine__slider">
+
+      <div id="drum1" class="drum"></div>
+      <div id="drum2" class="drum"></div>
+      <div id="drum3" class="drum"></div>
+
+      <!-- <div class="slot-machine__slider">
         <ol class="slot-machine__slider-wrapper">
           <li class="slot-machine__slider-slide"></li>
           <li class="slot-machine__slider-slide"></li>
@@ -61,22 +67,32 @@
           <li class="slot-machine__slider-slide"></li>
           <li class="slot-machine__slider-slide"></li>
         </ol>
-      </div>
+      </div> -->
     </section>
   </main>
   <footer class="footer">
     <div class="bet">
       <button class="bet__btn-minus"></button>
-      <input type="text" class="bet__sum-bet">
+      <div class="bet__sum">
+        <p type="text" class="bet__sum-bet">50000</p>
+      </div>
       <button class="bet__btn-plus"></button>
     </div>
     <div class="footer__win">
-      <h2 class="footer__win-text"></h2>
-      <p class="footer__win-sum"></p>
+      <h2 class="footer__win-text">WIN</h2>
+      <p class="footer__win-sum">9000,999</p>
     </div>
-    <button class="footer__btn-auto"></button>
-    <button class="footer__btn-spin"></button>
+    <section class="footer__btns">
+      <div class="footer__btn-auto">
+        <span>AUTO</span>
+      </div>
+      <div class="footer__btn-spin">
+        <span>SPIN</span>
+      </div>
+    </section>
   </footer>
+  <script src="./script/swiper-bundle.min.js"></script>
+  <script src="./script/index.js"></script>
 </body>
 
 </html>
