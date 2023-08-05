@@ -1,0 +1,11 @@
+.bet__btn-minus {
+  background-image: url(../../../image/btn-minus.png);
+  width: 42px;
+  height: 42px;
+  padding: 0;
+  border: none;
+  background-color: transparent;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

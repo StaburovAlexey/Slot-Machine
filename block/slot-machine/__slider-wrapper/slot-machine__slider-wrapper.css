@@ -1,4 +1,8 @@
 .slot-machine__slider-wrapper {
   padding: 0;
   margin: 0;
+  list-style: none;
+  gap: 13px;
+  display: flex;
+  flex-direction: column;
 }

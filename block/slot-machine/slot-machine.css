@@ -1,0 +1,13 @@
+.slot-machine {
+  width: 51.5%;
+  height: 240px;
+  border-radius: 20px;
+  border: 1px solid #FFE600;
+  background: rgba(21, 9, 31, 0.73);
+  margin: 0 auto;
+  padding: 8px 21px;
+  display: flex;
+  justify-content: space-between;
+  overflow: hidden;
+  box-sizing: border-box;
+}

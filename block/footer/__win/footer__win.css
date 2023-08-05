@@ -1,0 +1,11 @@
+.footer__win {
+  border-radius: 10px;
+  background: #320950;
+  width: 189px;
+  height: 38px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 14px;
+  box-sizing: border-box;
+}
